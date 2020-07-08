@@ -1,0 +1,86 @@
+.logo{
+    height: 50px;
+}
+.sign-in-css{
+ background-color: rgb(3, 187, 3);
+    border-radius: 10px;
+   color: whitesmoke;
+ 
+
+}
+#any{
+    color: rgb(11, 167, 11);
+}
+.button{
+    color: white;
+    background-color: rgb(3, 168, 3);
+    border-radius: 10px;
+    border: none;
+}
+.container{
+    background-color:white;
+}
+.card{
+    width: auto;
+    height:auto ;
+}
+#red{
+    color: red;
+}
+
+.card-first img{
+    margin-bottom: 10px;
+    width: 70px;
+    height: 70px;
+    display: block;
+    margin: 30px auto;
+}
+.title{
+    text-align: center;
+}
+.text{
+    text-align: center;
+}
+.card-first{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 5px 20px lightgray
+}
+.container{
+   margin-top: 30px;
+   
+}
+button{
+    background-color: rgb(4, 172, 4);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.man{
+    height: 100px;
+    width:100px;
+}
+.heading{
+    margin-top: 30px;
+}
+.last-section{
+    height: 200px;
+    color: white;
+    background-color: rgb(36, 36, 126);
+}
+footer{
+    text-align: center;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+
+}
+#sign-in{
+    color: honeydew;
+    background-color: rgb(5, 173, 5);
+    border: none;
+    border-radius: 5px;
+}
